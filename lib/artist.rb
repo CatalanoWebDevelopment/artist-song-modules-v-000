@@ -10,7 +10,7 @@ class Artist
   attr_reader :songs
   @@artists = []
 
-  
+
 
   def self.all
     @@artists
